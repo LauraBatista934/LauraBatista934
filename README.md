@@ -16,7 +16,8 @@
 
 ## 👋 Olá, mundo! Eu sou a Laura.
 
-Sou uma designer e desenvolvedora em formação apaixonada por criar **experiências digitais que façam sentido pra quem usa** — bonitas, funcionais e humanas.
+Sou uma designer e desenvolvedora em formação apaixonada por criar **experiências digitais que façam sentido pra quem usa**:
+Bonitas, funcionais e humanas.
 
 Estou no 4º semestre de **Análise e Desenvolvimento de Sistemas** pela **Unisinos** 🎓, com foco em **UI Design** e **Front-End Development**.
 
