@@ -19,7 +19,7 @@
 Sou uma designer e desenvolvedora em formação apaixonada por criar **experiências digitais que façam sentido pra quem usa**:
 Bonitas, funcionais e humanas.
 
-Estou no 4º semestre de **Análise e Desenvolvimento de Sistemas** pela **Unisinos** 🎓, com foco em **UI Design** e **Front-End Development**.
+Estou no 4º (1/26) semestre de **Análise e Desenvolvimento de Sistemas** pela **Unisinos** 🎓, com foco em **UI Design** e **Front-End Development**.
 
 > *"Penso além da interface — construo soluções que realmente importam pra as pessoas."*
 
